@@ -1,6 +1,7 @@
+#R Exercises
+
 install("iris")
 install.packages("dplyr")
-librar("iris")
 library("iris")
 install.packages("iris")
 options(download.file.method = "wget")
