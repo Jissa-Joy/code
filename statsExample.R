@@ -1,5 +1,5 @@
 library("readxl")
-stats<-read.csv("C:\\Users\\syamj\\Desktop\\R\\P2-Demographic-Data.csv")
+stats<-read.csv("C:\\Users\\jj\\Desktop\\R\\P2-Demographic-Data.csv")
 
 #------filter dataframe
 
